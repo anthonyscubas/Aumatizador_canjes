@@ -1,0 +1,8 @@
+python-tds>=1.16,<2
+certifi>=2025.1
+keyring>=25,<27
+xlsxwriter>=3.2,<5
+tkcalendar>=1.6,<2
+openpyxl>=3.1,<4
+pywin32>=306; sys_platform == "win32"
+babel>=2.16,<3
